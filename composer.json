@@ -1,0 +1,29 @@
+{
+    "name": "0xf4240fans/easydouyin",
+    "description": "抖音SDK",
+    "keywords": [
+        "easydouyin",
+        "douyin",
+        "open-douyin",
+        "douyin-sdk",
+        "sdk"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "0xf4240fans",
+            "email": "0xf4240.fans@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Easydouyin\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Easydouyin\\Tests\\": "tests/"
+        }
+    }
+}
