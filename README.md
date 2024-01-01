@@ -1,6 +1,6 @@
 # [EasyDouYin](https://github.com/0xf4240Fans/easydouyin)
 
-📦 一个 PHP 抖音开发 SDK，`0到100万`旗下开源产品。
+📦 一个 PHP 抖音开发 SDK。
 
 ## 环境需求
 
@@ -10,7 +10,7 @@
 ## 安装
 
 ```bash
-composer require 0xf4240Fans/easydouyin
+composer require 0xf4240fans/easydouyin
 ```
 
 ## 使用示例
@@ -43,3 +43,7 @@ var_dump($response->toArray());
 ## License
 
 MIT
+
+## 感谢
+
+💡 Inspired by [easywechat](https://easywechat.com/)
